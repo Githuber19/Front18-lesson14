@@ -6,23 +6,23 @@ console.log(sum / myArr.length);
 //2
 let myArr2 = [
   { name: "gio", age: 22 },
-  { name: "dito", age: 32 },
-  { name: "nodo", age: 40 },
+  { name: "dato", age: 32 },
+  { name: "zura", age: 40 },
   { name: "nana", age: 37 },
-  { name: "andria", age: 18 },
+  { name: "levani", age: 18 },
 ];
 
 console.log(myArr2);
 
 //3
 let person1 = {
-  firstName: "Nika",
-  lastName: "Avlokhashvili",
+  firstName: "Levan",
+  lastName: "Natadze",
   address: ["tbilisi", "spiridon kedia str"],
-  age: 28,
+  age: 24,
   phoneNumbers: {
-    home: 628098,
-    work: 555555555,
+    home: 4568796,
+    work: 8888888888,
   },
 };
 console.log(person1);
